@@ -13,6 +13,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <p>测试测试222</p>
       <p>测试测试333</p>
       <p>测试测试444</p>
+      <p>测试测试555</p>
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>  
